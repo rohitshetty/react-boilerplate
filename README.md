@@ -7,7 +7,7 @@ I have made the following changes to the original article's recommended setup:
 3. Prevent Relative path imports to escape the agony of `import xyz from '../../../../a/b/c'`.
 
 This was also my exercise in learning about how to setup a react project from scratch. I highly recommend going through the above article once and checking out the webpack.config.js (If possible recreate the files according to the article)
-
+This will grow as per my requirements and as and when I will learn more.
 
 ##### To Run:
 - `npm install`
